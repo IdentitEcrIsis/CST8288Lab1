@@ -1,0 +1,42 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+23
+-sourcepath
+'C:/Users/matt_/OneDrive/Documents/NetBeansProjects/CST8288Lab1/src/main/java;C:/Users/matt_/OneDrive/Documents/NetBeansProjects/CST8288Lab1/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/matt_/OneDrive/Documents/NetBeansProjects/CST8288Lab1/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'CST8288Lab1 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'CST8288Lab1 1.0-SNAPSHOT API'
+cst8288lab1
+C:\Users\matt_\OneDrive\Documents\NetBeansProjects\CST8288Lab1\src\main\java = 1728313040517
+C:\Users\matt_\OneDrive\Documents\NetBeansProjects\CST8288Lab1\target\generated-sources\annotations = 1728592609379
+C:\Users\matt_\OneDrive\Documents\NetBeansProjects\CST8288Lab1\target\reports\apidocs\allclasses-index.html = 1728592664180
+C:\Users\matt_\OneDrive\Documents\NetBeansProjects\CST8288Lab1\target\reports\apidocs\allpackages-index.html = 1728592664185
+C:\Users\matt_\OneDrive\Documents\NetBeansProjects\CST8288Lab1\target\reports\apidocs\element-list = 1728592664054
+C:\Users\matt_\OneDrive\Documents\NetBeansProjects\CST8288Lab1\target\reports\apidocs\help-doc.html = 1728592664227
+C:\Users\matt_\OneDrive\Documents\NetBeansProjects\CST8288Lab1\target\reports\apidocs\index-all.html = 1728592664214
+C:\Users\matt_\OneDrive\Documents\NetBeansProjects\CST8288Lab1\target\reports\apidocs\index.html = 1728592664221
+C:\Users\matt_\OneDrive\Documents\NetBeansProjects\CST8288Lab1\target\reports\apidocs\member-search-index.js = 1728592664192
+C:\Users\matt_\OneDrive\Documents\NetBeansProjects\CST8288Lab1\target\reports\apidocs\module-search-index.js = 1728592664187
+C:\Users\matt_\OneDrive\Documents\NetBeansProjects\CST8288Lab1\target\reports\apidocs\overview-tree.html = 1728592664157
+C:\Users\matt_\OneDrive\Documents\NetBeansProjects\CST8288Lab1\target\reports\apidocs\package-search-index.js = 1728592664189
+C:\Users\matt_\OneDrive\Documents\NetBeansProjects\CST8288Lab1\target\reports\apidocs\search.html = 1728592664218
+C:\Users\matt_\OneDrive\Documents\NetBeansProjects\CST8288Lab1\target\reports\apidocs\tag-search-index.js = 1728592664194
+C:\Users\matt_\OneDrive\Documents\NetBeansProjects\CST8288Lab1\target\reports\apidocs\type-search-index.js = 1728592664191
